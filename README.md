@@ -22,4 +22,6 @@ Run the server by running `python script_name.py`:
   
 ## Results
 
+script 1_coding_as_hobby.py result
+
 ![Alt text](charts/coding_as_hobby.png?raw=true "1_coding_as_hobby.py result")
