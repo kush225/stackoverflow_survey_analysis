@@ -1,0 +1,225 @@
+NA : 
+NA: 83.02% 
+Very satisfied: 5.6% 
+Neither satisfied nor dissatisfied: 3.06% 
+Slightly satisfied: 4.52% 
+Slightly dissatisfied: 2.25% 
+Very dissatisfied: 1.55% 
+
+---------------------------------------
+Developer, desktop or enterprise applications : 
+NA: 12.18% 
+Slightly dissatisfied: 13.87% 
+Very satisfied: 26.87% 
+Very dissatisfied: 6.23% 
+Neither satisfied nor dissatisfied: 10.84% 
+Slightly satisfied: 30.01% 
+
+---------------------------------------
+Developer, front-end : 
+NA: 12.99% 
+Slightly satisfied: 30.04% 
+Neither satisfied nor dissatisfied: 10.81% 
+Slightly dissatisfied: 12.86% 
+Very satisfied: 27.42% 
+Very dissatisfied: 5.89% 
+
+---------------------------------------
+Designer : 
+Slightly satisfied: 25.83% 
+Neither satisfied nor dissatisfied: 10.04% 
+Slightly dissatisfied: 12.03% 
+Very dissatisfied: 5.71% 
+Very satisfied: 25.39% 
+NA: 21.0% 
+
+---------------------------------------
+Developer, back-end : 
+Slightly satisfied: 30.62% 
+NA: 11.22% 
+Slightly dissatisfied: 13.64% 
+Very satisfied: 27.35% 
+Neither satisfied nor dissatisfied: 11.14% 
+Very dissatisfied: 6.02% 
+
+---------------------------------------
+Developer, full-stack : 
+Slightly satisfied: 31.19% 
+Slightly dissatisfied: 13.77% 
+Very satisfied: 28.57% 
+Neither satisfied nor dissatisfied: 11.0% 
+Very dissatisfied: 6.08% 
+NA: 9.4% 
+
+---------------------------------------
+Academic researcher : 
+Slightly dissatisfied: 10.0% 
+Very satisfied: 24.97% 
+Slightly satisfied: 24.77% 
+NA: 24.87% 
+Neither satisfied nor dissatisfied: 9.6% 
+Very dissatisfied: 5.78% 
+
+---------------------------------------
+Developer, mobile : 
+Slightly dissatisfied: 12.27% 
+Very satisfied: 26.21% 
+NA: 15.14% 
+Slightly satisfied: 28.91% 
+Neither satisfied nor dissatisfied: 11.35% 
+Very dissatisfied: 6.12% 
+
+---------------------------------------
+Data or business analyst : 
+Slightly satisfied: 28.47% 
+Slightly dissatisfied: 13.49% 
+NA: 14.6% 
+Very satisfied: 26.76% 
+Very dissatisfied: 6.36% 
+Neither satisfied nor dissatisfied: 10.33% 
+
+---------------------------------------
+Data scientist or machine learning specialist : 
+Slightly satisfied: 27.62% 
+Slightly dissatisfied: 10.63% 
+NA: 16.76% 
+Very satisfied: 29.26% 
+Neither satisfied nor dissatisfied: 10.0% 
+Very dissatisfied: 5.73% 
+
+---------------------------------------
+Database administrator : 
+Slightly satisfied: 29.65% 
+Slightly dissatisfied: 13.34% 
+Very satisfied: 28.6% 
+NA: 11.73% 
+Neither satisfied nor dissatisfied: 10.9% 
+Very dissatisfied: 5.77% 
+
+---------------------------------------
+Engineer, data : 
+Slightly satisfied: 30.42% 
+NA: 12.25% 
+Very satisfied: 28.61% 
+Slightly dissatisfied: 12.32% 
+Very dissatisfied: 5.88% 
+Neither satisfied nor dissatisfied: 10.52% 
+
+---------------------------------------
+Engineer, site reliability : 
+NA: 10.0% 
+Very satisfied: 32.26% 
+Slightly dissatisfied: 12.54% 
+Slightly satisfied: 29.48% 
+Neither satisfied nor dissatisfied: 9.49% 
+Very dissatisfied: 6.24% 
+
+---------------------------------------
+Developer, QA or test : 
+Slightly satisfied: 30.21% 
+Very satisfied: 29.55% 
+Slightly dissatisfied: 13.81% 
+Neither satisfied nor dissatisfied: 10.46% 
+NA: 9.72% 
+Very dissatisfied: 6.26% 
+
+---------------------------------------
+DevOps specialist : 
+Slightly satisfied: 31.49% 
+Very satisfied: 32.62% 
+Very dissatisfied: 6.17% 
+Slightly dissatisfied: 13.89% 
+Neither satisfied nor dissatisfied: 9.88% 
+NA: 5.94% 
+
+---------------------------------------
+Developer, game or graphics : 
+Slightly dissatisfied: 10.61% 
+Very satisfied: 23.88% 
+Slightly satisfied: 23.36% 
+NA: 27.39% 
+Neither satisfied nor dissatisfied: 9.33% 
+Very dissatisfied: 5.43% 
+
+---------------------------------------
+Educator : 
+Slightly dissatisfied: 11.64% 
+Very satisfied: 27.87% 
+Slightly satisfied: 26.31% 
+NA: 20.77% 
+Neither satisfied nor dissatisfied: 8.35% 
+Very dissatisfied: 5.05% 
+
+---------------------------------------
+Student : 
+NA: 56.88% 
+Neither satisfied nor dissatisfied: 6.12% 
+Very satisfied: 13.31% 
+Slightly satisfied: 14.97% 
+Slightly dissatisfied: 6.22% 
+Very dissatisfied: 2.5% 
+
+---------------------------------------
+Engineering manager : 
+Very satisfied: 30.65% 
+Slightly satisfied: 29.82% 
+NA: 13.04% 
+Slightly dissatisfied: 12.54% 
+Neither satisfied nor dissatisfied: 8.12% 
+Very dissatisfied: 5.83% 
+
+---------------------------------------
+Senior executive/VP : 
+Very satisfied: 42.9% 
+Slightly satisfied: 23.35% 
+NA: 14.24% 
+Slightly dissatisfied: 7.26% 
+Very dissatisfied: 5.74% 
+Neither satisfied nor dissatisfied: 6.5% 
+
+---------------------------------------
+System administrator : 
+Very satisfied: 28.07% 
+Slightly dissatisfied: 13.1% 
+Very dissatisfied: 5.73% 
+Slightly satisfied: 28.19% 
+NA: 14.68% 
+Neither satisfied nor dissatisfied: 10.23% 
+
+---------------------------------------
+Developer, embedded applications or devices : 
+Slightly dissatisfied: 12.71% 
+Very satisfied: 27.19% 
+Slightly satisfied: 28.64% 
+NA: 14.28% 
+Neither satisfied nor dissatisfied: 11.08% 
+Very dissatisfied: 6.1% 
+
+---------------------------------------
+Product manager : 
+Very satisfied: 29.89% 
+NA: 14.01% 
+Slightly dissatisfied: 12.8% 
+Very dissatisfied: 6.35% 
+Slightly satisfied: 27.46% 
+Neither satisfied nor dissatisfied: 9.5% 
+
+---------------------------------------
+Scientist : 
+Very satisfied: 29.83% 
+Slightly satisfied: 25.57% 
+NA: 19.74% 
+Slightly dissatisfied: 10.12% 
+Neither satisfied nor dissatisfied: 9.34% 
+Very dissatisfied: 5.39% 
+
+---------------------------------------
+Marketing or sales professional : 
+Slightly dissatisfied: 8.92% 
+NA: 33.03% 
+Very satisfied: 24.31% 
+Slightly satisfied: 20.0% 
+Very dissatisfied: 5.54% 
+Neither satisfied nor dissatisfied: 8.21% 
+
+---------------------------------------
