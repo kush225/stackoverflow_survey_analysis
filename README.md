@@ -28,3 +28,5 @@ Run the server by running `python script_name.py`:
 ![Alt text](charts/lang_popularity_hbar.png?raw=true "2_language_popularity.py hbarresult")
 
 ![Alt text](charts/lang_popularity_pie.png?raw=true "2_language_popularity.py pieresult")
+
+![Alt text](charts/Edu_attain.png?raw=true "5_Edu_Attain.py pieresult")
